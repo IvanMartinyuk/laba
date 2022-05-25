@@ -1,0 +1,6 @@
+C:\Users\Ivan\source\repos\laba7\laba7\bin\Release\laba7.exe.config
+C:\Users\Ivan\source\repos\laba7\laba7\bin\Release\laba7.exe
+C:\Users\Ivan\source\repos\laba7\laba7\bin\Release\laba7.pdb
+C:\Users\Ivan\source\repos\laba7\laba7\obj\Release\laba7.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\laba7\laba7\obj\Release\laba7.exe
+C:\Users\Ivan\source\repos\laba7\laba7\obj\Release\laba7.pdb
